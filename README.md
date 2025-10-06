@@ -13,21 +13,21 @@ Here are the certificates I earned during the training program:
     <tr>
       <td align="center">
         <strong>AZ-900: Azure Fundamentals</strong><br>
-        <img src="certificate_screenshots/AZ-900.jpg" alt="AZ-900" width="300" />
+        <img src="certificate_screenshots/AZ-900.jpg" alt="AZ-900" width="400" />
       </td>
       <td align="center">
         <strong>PL-900: Power Platform Fundamentals</strong><br>
-        <img src="certificate_screenshots/PL-900.jpg" alt="PL-900" width="300" />
+        <img src="certificate_screenshots/PL-900.jpg" alt="PL-900" width="400" />
       </td>
     </tr>
     <tr>
       <td align="center">
         <strong>MB-920: Dynamics 365 Fundamentals</strong><br>
-        <img src="certificate_screenshots/MB-920.jpg" alt="MB-920" width="300" />
+        <img src="certificate_screenshots/MB-920.jpg" alt="MB-920" width="400" />
       </td>
       <td align="center">
         <strong>.NET with C#: Practical Training</strong><br>
-        <img src="certificate_screenshots/DotNetWithCSharp.jpg" alt=".NET with C#" width="300" />
+        <img src="certificate_screenshots/DotNetWithCSharp.jpg" alt=".NET with C#" width="400" />
       </td>
     </tr>
   </table>
