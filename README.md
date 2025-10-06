@@ -8,7 +8,7 @@ This repository contains my **Microsoft Certification Training** materials and c
 
 Here are the certificates I earned during the training program:
 
-![AZ-900: Azure Fundamentals](certificate_screenshots/AZ-900.jpg)  
+![AZ-900: Azure Fundamentals](certificate_screenshots/az-900.jpg)  
 *Understanding cloud concepts, core Azure services, and Azure pricing & support*
 
 ![PL-900: Microsoft Power Platform Fundamentals](certificate_screenshots/PL-900.jpg)  
