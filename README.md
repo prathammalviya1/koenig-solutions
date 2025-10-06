@@ -9,20 +9,27 @@ This repository contains my **Microsoft Certification Training** materials and c
 Here are the certificates I earned during the training program:
 
 <p align="center">
-  <img src="certificate_screenshots/AZ-900.jpg" alt="AZ-900" width="300" />
-  <img src="certificate_screenshots/PL-900.jpg" alt="PL-900" width="300" />
+  <figure>
+    <img src="certificate_screenshots/AZ-900.jpg" alt="AZ-900" width="300" />
+    <figcaption>AZ-900: Azure Fundamentals</figcaption>
+  </figure>
+  &nbsp;&nbsp;
+  <figure>
+    <img src="certificate_screenshots/PL-900.jpg" alt="PL-900" width="300" />
+    <figcaption>PL-900: Power Platform Fundamentals</figcaption>
+  </figure>
 </p>
 
 <p align="center">
-  <img src="certificate_screenshots/MB-920.jpg" alt="MB-920" width="300" />
-  <img src="certificate_screenshots/DotNetWithCSharp.jpg" alt=".NET with C#" width="300" />
-</p>
-
-<p align="center">
-  <strong>AZ-900:</strong> Azure Fundamentals &nbsp; | &nbsp;
-  <strong>PL-900:</strong> Power Platform Fundamentals &nbsp; <br>
-  <strong>MB-920:</strong> Dynamics 365 Fundamentals &nbsp; | &nbsp;
-  <strong>.NET with C#:</strong> Practical Training
+  <figure>
+    <img src="certificate_screenshots/MB-920.jpg" alt="MB-920" width="300" />
+    <figcaption>MB-920: Dynamics 365 Fundamentals</figcaption>
+  </figure>
+  &nbsp;&nbsp;
+  <figure>
+    <img src="certificate_screenshots/DotNetWithCSharp.jpg" alt=".NET with C#" width="300" />
+    <figcaption>.NET with C#: Practical Training</figcaption>
+  </figure>
 </p>
 
 ---
