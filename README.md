@@ -21,13 +21,14 @@ Here are the certificates I earned during the training program:
       </td>
     </tr>
     <tr>
-      <td align="center">
-        <strong>MB-920: Dynamics 365 Fundamentals</strong><br>
-        <img src="certificate_screenshots/MB-920.jpg" alt="MB-920" width="400" />
-      </td>
+
       <td align="center">
         <strong>.NET with C#: Practical Training</strong><br>
         <img src="certificate_screenshots/DotNetWithCSharp.jpg" alt=".NET with C#" width="400" />
+      </td>
+     <td align="center">
+        <strong>MB-920: Dynamics 365 Fundamentals</strong><br>
+        <img src="certificate_screenshots/MB-920.jpg" alt="MB-920" width="400" />
       </td>
     </tr>
   </table>
