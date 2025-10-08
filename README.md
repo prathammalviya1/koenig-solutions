@@ -1,4 +1,4 @@
-# Koenig Solutions - Microsoft Certification Training
+# Koenig Solutions - Microsoft Certification Training  
 
 This repository contains my **Microsoft Certification Training** materials and certificates completed during the training program.  
 
@@ -21,12 +21,11 @@ Here are the certificates I earned during the training program:
       </td>
     </tr>
     <tr>
-
       <td align="center">
         <strong>.NET with C#: Practical Training</strong><br>
         <img src="certificate_screenshots/DotNetWithCSharp.jpg" alt=".NET with C#" width="400" />
       </td>
-     <td align="center">
+      <td align="center">
         <strong>MB-920: Dynamics 365 Fundamentals</strong><br>
         <img src="certificate_screenshots/MB-920.jpg" alt="MB-920" width="400" />
       </td>
@@ -44,7 +43,7 @@ For reference or download, the original PDFs are available here:
 - [PL-900.pdf](original_certificates/PL-900.pdf)  
 - [MB-920.pdf](original_certificates/MB-920.pdf)  
 - [DotNetWithCSharp.pdf](original_certificates/DotNetWithCSharp.pdf)  
-- [Microsoft_Certificates_Combined.pdf](original_certificates/Microsoft_Certificates_Combined.pdf)
+- [Microsoft_Certificates_Combined.pdf](original_certificates/Microsoft_Certificates_Combined.pdf)  
 
 ---
 
@@ -56,6 +55,3 @@ For reference or download, the original PDFs are available here:
 - **Cloud Concepts and Application Development**
 
 ---
-
-
-
